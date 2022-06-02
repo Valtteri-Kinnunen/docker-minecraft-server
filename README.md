@@ -9,6 +9,8 @@ This docker image provides a Minecraft Server that will automatically download t
 version at startup. You can also run/upgrade to any specific version or the
 latest snapshot. See the _Versions_ section below for more information.
 
+test edit
+
 To simply use the latest stable version, run
 
     docker run -d -it -p 25565:25565 -e EULA=TRUE itzg/minecraft-server
